@@ -1136,6 +1136,7 @@ from .sky import (
     SkySportsIE,
     SkySportsNewsIE,
 )
+from .sliq import SliqIE
 from .slideshare import SlideshareIE
 from .slideslive import SlidesLiveIE
 from .slutload import SlutloadIE
